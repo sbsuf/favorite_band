@@ -1,0 +1,10 @@
+.sidebar {
+  float: left;
+  width: 30%;
+}
+
+.float {
+  float:right;
+  width:50%;
+  padding-right: 20px;
+}
